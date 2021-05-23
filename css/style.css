@@ -1,0 +1,50 @@
+body {
+    font: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.navbar {
+    background-color: gold;
+}
+
+.navbar-nav {
+    padding-left: 50px;    
+    font-weight: bold;
+}
+
+.nav-item {
+    padding-left: 20px;
+}
+
+.quem-somos {
+    background-color: dodgerblue;
+    
+}
+
+.margin {
+    padding-top: 30px;    
+    padding-bottom: 30px;
+}
+
+.quem-somos img{
+    
+    padding-bottom: 30px;
+}
+
+
+.descricao {
+    color: white;
+    font-size: 20px;
+}
+
+.parceiros {
+    background-color: orange;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+ 
